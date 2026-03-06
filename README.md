@@ -1,5 +1,5 @@
 # Software_Usage_Dashboard
-This project that simulates SaaS usage data ingestion, stores the data in a SQLite database, and provides an interactive dashboard for analyzing application usage and estimated software spend.
+This project simulates software usage data ingestion, stores the data in a SQLite database, and provides an interactive dashboard for analyzing application usage and estimated software spend.
 
 The project demonstrates a lightweight data pipeline, basic data modeling, and interactive analytics using Python and Streamlit.
 
