@@ -50,20 +50,20 @@ The dashboard estimates SaaS spend by multiplying active users by seat cost.
 ---
 
 ## Project Structure
-saas-usage-intelligence-dashboard
+saas-usage-intelligence-dashboard/
 │
 ├── api/
-│ └── mock_api_server.py
+│   └── mock_api_server.py
 │
 ├── dashboard/
-│ └── app.py
+│   └── app.py
 │
 ├── database/
-│ └── usage_data.db
+│   └── usage_data.db
 │
 ├── scripts/
-│ ├── generate_data.py
-│ └── ingest_api_data.py
+│   ├── generate_data.py
+│   └── ingest_api_data.py
 │
 ├── requirements.txt
 ├── README.md
