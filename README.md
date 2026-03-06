@@ -70,6 +70,9 @@ saas-usage-intelligence-dashboard/
 ├── README.md
 └── .gitignore
 ```
+
+### Data Pipeline Architecture
+
 ### Install Dependencies
 pip install -r requirements.txt
 
