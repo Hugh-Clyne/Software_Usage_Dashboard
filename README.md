@@ -61,6 +61,7 @@ saas-usage-intelligence-dashboard/
 │
 ├── dashboard/
 │   └── app.py
+│   └── DashboardSS.PNG
 │
 ├── data/
 │   └── usage_daily.csv
@@ -94,6 +95,9 @@ python scripts/ingest_api_data.py
 
 ### Launch the Dashboard
 streamlit run dashboard/app.py
+
+### Dashboard Snapshot
+![Dashboard Snapshot](dashboard/DashboardSS.PNG)
 
 
 ---
