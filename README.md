@@ -59,8 +59,17 @@ saas-usage-intelligence-dashboard/
 ├── dashboard/
 │   └── app.py
 │
+├── data/
+│   └── usage_daily.csv
+│   └── users.csv
+│
+│
+│
 ├── database/
 │   └── usage_data.db
+│
+├── notebooks/
+│   └── generate_data.ipynb
 │
 ├── scripts/
 │   ├── generate_data.py
