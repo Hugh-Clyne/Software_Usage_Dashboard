@@ -50,7 +50,7 @@ The dashboard estimates SaaS spend by multiplying active users by seat cost.
 ---
 
 ## Project Structure
-"""
+```
 saas-usage-intelligence-dashboard/
 │
 ├── api/
@@ -69,7 +69,7 @@ saas-usage-intelligence-dashboard/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
-"""
+```
 ### Install Dependencies
 pip install -r requirements.txt
 
