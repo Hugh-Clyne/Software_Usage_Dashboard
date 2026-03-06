@@ -56,14 +56,15 @@ saas-usage-intelligence-dashboard/
 ├── api/
 │   └── mock_api_server.py
 │
+│── arch/
+│   └── DPP_Arch.PNG
+│
 ├── dashboard/
 │   └── app.py
 │
 ├── data/
 │   └── usage_daily.csv
 │   └── users.csv
-│
-│
 │
 ├── database/
 │   └── usage_data.db
@@ -72,7 +73,6 @@ saas-usage-intelligence-dashboard/
 │   └── generate_data.ipynb
 │
 ├── scripts/
-│   ├── generate_data.py
 │   └── ingest_api_data.py
 │
 ├── requirements.txt
