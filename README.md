@@ -72,6 +72,7 @@ saas-usage-intelligence-dashboard/
 ```
 
 ### Data Pipeline Architecture
+![Pipeline Architecture](arch/DDP_Arch.png)
 
 ### Install Dependencies
 pip install -r requirements.txt
